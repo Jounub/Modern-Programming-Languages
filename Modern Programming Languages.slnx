@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LR1/LR1.vcxproj" Id="689eb2d0-6701-443f-ae06-9fda3da1c630" />
+  <Project Path="LR2/LR2.vcxproj" Id="05153cca-fcf5-47be-b569-65f188343c76" />
+  <Project Path="LR3/LR3.vcxproj" Id="9990f01d-8d97-405a-b29c-4cb948ff92ec" />
+  <Project Path="LR4/LR4.vcxproj" Id="9dcd4603-8594-4d24-8b91-a1bc81039552" />
+  <Project Path="LR5/LR5.vcxproj" Id="3dde8273-1a27-4bb5-9c6a-31698466156d" />
+  <Project Path="LR6/LR6.vcxproj" Id="bc821da8-ecff-4eec-a2f6-6542c3c0b818" />
+  <Project Path="LR7/LR7.vcxproj" Id="27471999-1e1b-4227-b00a-4fb4f0662eaf" />
+  <Project Path="LR9/LR9.vcxproj" Id="115892ca-e496-4bfa-aa99-9ca2c27cbffd" />
+</Solution>
